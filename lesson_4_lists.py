@@ -91,7 +91,7 @@ else:
 # Write a Python program to remove an element from a list.
 number=list(map(int,(input('enter some number and give space after each number : ').split())))
 print(f'the list of number are : {number}')
-num=int(input('rnter a number which you want to remove from the list : '))
+num=int(input('enter a number which you want to remove from the list : '))
 if num in number:
     removed_number=number.remove(num)
     print(f'the number {num} is removed.So the new list is {number}')
