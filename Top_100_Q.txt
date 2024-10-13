@@ -1,0 +1,130 @@
+
+# 1. Basic Print Statements and Input/Output ------------- *DONE*
+
+1. Write a Python program to print "Hello, World!". 
+2. Write a Python program to print your name and age.
+3. Write a Python program to take input from the user and display it.
+4. Write a Python program to add two numbers entered by the user.
+5. Write a Python program to find the product of two numbers.
+6. Write a Python program to find the square of a number.
+7. Write a Python program to calculate the area of a circle.
+8. Write a Python program to calculate the perimeter of a rectangle.
+9. Write a Python program to swap two numbers.
+10. Write a Python program to print the type of variables.
+
+# 2. Operators ----------------------------- *DONE*
+
+11. Write a Python program to demonstrate the use of arithmetic operators.
+12. Write a Python program to demonstrate the use of assignment operators.
+13. Write a Python program to demonstrate the use of comparison operators.
+14. Write a Python program to demonstrate the use of logical operators.
+15. Write a Python program to find the average of three numbers.
+16. Write a Python program to convert Celsius to Fahrenheit.
+17. Write a Python program to check if a number is even or odd.
+18. Write a Python program to check if a number is positive, negative, or zero.
+19. Write a Python program to check if a year is a leap year.
+20. Write a Python program to calculate simple interest.
+
+# 3. Strings -------------------------------*DONE*
+
+21. Write a Python program to concatenate two strings.
+22. Write a Python program to find the length of a string.
+23. Write a Python program to count the occurrences of a character in a string.
+24. Write a Python program to check if a string is a palindrome.
+25. Write a Python program to convert a string to uppercase.
+26. Write a Python program to replace all occurrences of a substring in a string.
+27. Write a Python program to find the first and last character of a string.
+28. Write a Python program to reverse a string.
+29. Write a Python program to split a string into a list of words.
+30. Write a Python program to remove whitespace from the beginning and end of a string.
+
+# 4. Lists -----------------------------------*DONE*
+
+31. Write a Python program to create a list of numbers.
+32. Write a Python program to find the sum of all elements in a list.
+33. Write a Python program to find the largest and smallest number in a list.
+34. Write a Python program to sort a list in ascending and descending order.
+35. Write a Python program to remove duplicates from a list.
+36. Write a Python program to check if an element exists in a list.
+37. Write a Python program to count occurrences of an element in a list.
+38. Write a Python program to merge two lists into one.
+39. Write a Python program to find the index of an element in a list.
+40. Write a Python program to remove an element from a list.
+
+# 5. Loops -------------------------------*DONE*
+
+41. Write a Python program to print numbers from 1 to 10.
+42. Write a Python program to print the multiplication table of a given number.
+43. Write a Python program to find the sum of all numbers from 1 to 100.
+44. Write a Python program to print the first 10 Fibonacci numbers.
+45. Write a Python program to print all even numbers from 1 to 100.
+46. Write a Python program to print the factorial of a given number.
+47. Write a Python program to find the greatest common divisor (GCD) of two numbers.
+48. Write a Python program to find the least common multiple (LCM) of two numbers.
+49. Write a Python program to check if a number is prime.
+50. Write a Python program to print all prime numbers between 1 and 100.
+
+# 6. Conditionals ------------------------------*DONE*
+
+51. Write a Python program to check if a number is divisible by 5.
+52. Write a Python program to check if a number is divisible by 3 and 7.
+53. Write a Python program to find the largest of three numbers.
+54. Write a Python program to check if a number is a perfect square.
+55. Write a Python program to check if a string is empty.
+56. Write a Python program to check if a list is empty.
+57. Write a Python program to determine if a year is a leap year using logical operators.
+58. Write a Python program to implement a simple calculator using if-else conditions.
+59. Write a Python program to check if a triangle is valid using sides of a triangle.
+60. Write a Python program to find the grade of a student based on marks.
+
+# 7. Functions --------------------------------*DONE*
+
+61. Write a Python function to find the maximum of three numbers.
+62. Write a Python function to calculate the factorial of a number.
+63. Write a Python function to check if a number is prime.
+64. Write a Python function to reverse a string.
+65. Write a Python function to find the GCD of two numbers.
+66. Write a Python function to find the LCM of two numbers.
+67. Write a Python function to count the vowels in a string.
+68. Write a Python function to find the sum of digits of a number.
+69. Write a Python function to check if a number is a palindrome.
+70. Write a Python function to check if a string is an anagram of another string.
+
+# 8. Recursion
+
+71. Write a recursive function to find the factorial of a number.
+72. Write a recursive function to find the Fibonacci sequence.
+73. Write a recursive function to calculate the power of a number.
+74. Write a recursive function to find the greatest common divisor (GCD) of two numbers.
+75. Write a recursive function to reverse a string.
+76. Write a recursive function to find the sum of digits of a number.
+77. Write a recursive function to solve the Tower of Hanoi problem.
+78. Write a recursive function to find the length of a string.
+79. Write a recursive function to print all numbers from n to 1.
+80. Write a recursive function to flatten a nested list.
+
+# 9. Dictionaries
+
+81. Write a Python program to create a dictionary from two lists.
+82. Write a Python program to add a key-value pair to a dictionary.
+83. Write a Python program to remove a key from a dictionary.
+84. Write a Python program to check if a key exists in a dictionary.
+85. Write a Python program to get all keys and values from a dictionary.
+86. Write a Python program to merge two dictionaries.
+87. Write a Python program to sort a dictionary by key.
+88. Write a Python program to sort a dictionary by value.
+89. Write a Python program to find the maximum and minimum values in a dictionary.
+90. Write a Python program to count the frequency of elements in a list using a dictionary.
+
+# 10. Sets and Tuples
+
+91. Write a Python program to create a set and add elements to it.
+92. Write a Python program to remove elements from a set.
+93. Write a Python program to find the union of two sets.
+94. Write a Python program to find the intersection of two sets.
+95. Write a Python program to find the difference between two sets.
+96. Write a Python program to convert a list into a tuple.
+97. Write a Python program to find the index of an element in a tuple.
+98. Write a Python program to count the occurrences of an element in a tuple.
+99. Write a Python program to reverse a tuple.
+100. Write a Python program to find the maximum and minimum elements in a tuple.
