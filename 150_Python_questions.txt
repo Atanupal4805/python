@@ -1,5 +1,5 @@
 
-# 1. Basic Print Statements and Input/Output ------------- *DONE*
+# 1. Basic Print Statements and Input/Output 
 
 1. Write a Python program to print "Hello, World!". 
 2. Write a Python program to print your name and age.
@@ -12,7 +12,7 @@
 9. Write a Python program to swap two numbers.
 10. Write a Python program to print the type of variables.
 
-# 2. Operators ----------------------------- *DONE*
+# 2. Operators 
 
 11. Write a Python program to demonstrate the use of arithmetic operators.
 12. Write a Python program to demonstrate the use of assignment operators.
@@ -25,7 +25,7 @@
 19. Write a Python program to check if a year is a leap year.
 20. Write a Python program to calculate simple interest.
 
-# 3. Strings -------------------------------*DONE*
+# 3. Strings 
 
 21. Write a Python program to concatenate two strings.
 22. Write a Python program to find the length of a string.
@@ -38,7 +38,7 @@
 29. Write a Python program to split a string into a list of words.
 30. Write a Python program to remove whitespace from the beginning and end of a string.
 
-# 4. Lists -----------------------------------*DONE*
+# 4. Lists 
 
 31. Write a Python program to create a list of numbers.
 32. Write a Python program to find the sum of all elements in a list.
@@ -51,7 +51,7 @@
 39. Write a Python program to find the index of an element in a list.
 40. Write a Python program to remove an element from a list.
 
-# 5. Loops -------------------------------*DONE*
+# 5. Loops 
 
 41. Write a Python program to print numbers from 1 to 10.
 42. Write a Python program to print the multiplication table of a given number.
@@ -64,7 +64,7 @@
 49. Write a Python program to check if a number is prime.
 50. Write a Python program to print all prime numbers between 1 and 100.
 
-# 6. Conditionals ------------------------------*DONE*
+# 6. Conditionals 
 
 51. Write a Python program to check if a number is divisible by 5.
 52. Write a Python program to check if a number is divisible by 3 and 7.
@@ -77,7 +77,7 @@
 59. Write a Python program to check if a triangle is valid using sides of a triangle.
 60. Write a Python program to find the grade of a student based on marks.
 
-# 7. Functions --------------------------------*DONE*
+# 7. Functions 
 
 61. Write a Python function to find the maximum of three numbers.
 62. Write a Python function to calculate the factorial of a number.
