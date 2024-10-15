@@ -1,4 +1,4 @@
-'''# Write a Python program to check if a number is divisible by 5.
+# Write a Python program to check if a number is divisible by 5.
 a=int(input('enter a number: '))
 if a%5==0:
     print(f'{a} is divisible by 5 ')
@@ -96,7 +96,7 @@ c=int(input('enter the hypotenuse of a triangle: '))
 if c>a+b:
     print(f'the triangle is valid.')
 else:
-    print(f'the triangle is not valid.')'''
+    print(f'the triangle is not valid.')
 
 
 # Write a Python program to find the grade of a student based on marks.
