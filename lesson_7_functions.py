@@ -1,4 +1,4 @@
-'''#  Write a Python function to find the maximum of three numbers.
+#  Write a Python function to find the maximum of three numbers.
 def find_max():
     a=int(input('enter the 1st number: '))
     b=int(input('enter the 2nd number: '))
@@ -119,7 +119,7 @@ def find_palindrome():
         print(f'the number {a} is a palindrome .')
     else:
         print(f'the number {a} is not palindrome .')
-find_palindrome()'''
+find_palindrome()
 
 
 # Write a Python function to check if a string is an anagram of another string.
