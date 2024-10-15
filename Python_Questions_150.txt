@@ -1,7 +1,7 @@
 
-# 1. Basic Print Statements and Input/Output 
+# 1. Basic Print Statements and Input/Output
 
-1. Write a Python program to print "Hello, World!". 
+1. Write a Python program to print "Hello, World!".
 2. Write a Python program to print your name and age.
 3. Write a Python program to take input from the user and display it.
 4. Write a Python program to add two numbers entered by the user.
@@ -12,7 +12,7 @@
 9. Write a Python program to swap two numbers.
 10. Write a Python program to print the type of variables.
 
-# 2. Operators 
+# 2. Operators
 
 11. Write a Python program to demonstrate the use of arithmetic operators.
 12. Write a Python program to demonstrate the use of assignment operators.
@@ -25,7 +25,7 @@
 19. Write a Python program to check if a year is a leap year.
 20. Write a Python program to calculate simple interest.
 
-# 3. Strings 
+# 3. Strings
 
 21. Write a Python program to concatenate two strings.
 22. Write a Python program to find the length of a string.
@@ -38,7 +38,7 @@
 29. Write a Python program to split a string into a list of words.
 30. Write a Python program to remove whitespace from the beginning and end of a string.
 
-# 4. Lists 
+# 4. Lists
 
 31. Write a Python program to create a list of numbers.
 32. Write a Python program to find the sum of all elements in a list.
@@ -51,7 +51,7 @@
 39. Write a Python program to find the index of an element in a list.
 40. Write a Python program to remove an element from a list.
 
-# 5. Loops 
+# 5. Loops
 
 41. Write a Python program to print numbers from 1 to 10.
 42. Write a Python program to print the multiplication table of a given number.
@@ -64,7 +64,7 @@
 49. Write a Python program to check if a number is prime.
 50. Write a Python program to print all prime numbers between 1 and 100.
 
-# 6. Conditionals 
+# 6. Conditionals
 
 51. Write a Python program to check if a number is divisible by 5.
 52. Write a Python program to check if a number is divisible by 3 and 7.
@@ -77,7 +77,7 @@
 59. Write a Python program to check if a triangle is valid using sides of a triangle.
 60. Write a Python program to find the grade of a student based on marks.
 
-# 7. Functions 
+# 7. Functions
 
 61. Write a Python function to find the maximum of three numbers.
 62. Write a Python function to calculate the factorial of a number.
@@ -128,3 +128,87 @@
 98. Write a Python program to count the occurrences of an element in a tuple.
 99. Write a Python program to reverse a tuple.
 100. Write a Python program to find the maximum and minimum elements in a tuple.
+
+# 11. Basic Array Operations
+
+101. Write a Python program to create an array and display its elements.
+102. Write a Python program to find the length of an array.
+103. Write a Python program to find the sum of all elements in an array.
+104. Write a Python program to find the largest and smallest element in an array.
+105. Write a Python program to search for an element in an array.
+106. Write a Python program to count the occurrences of an element in an array.
+107. Write a Python program to insert an element at a specific position in an array.
+108. Write a Python program to remove an element from a specific position in an array.
+109. Write a Python program to reverse an array.
+110. Write a Python program to sort an array in ascending and descending order.
+
+# 12. Multi-Dimensional Arrays (Matrices)
+
+111. Write a Python program to create a 2D array (matrix) and print it.
+112. Write a Python program to find the transpose of a matrix.
+113. Write a Python program to add two matrices.
+114. Write a Python program to subtract two matrices.
+115. Write a Python program to multiply two matrices.
+116. Write a Python program to perform scalar multiplication of a matrix.
+117. Write a Python program to find the sum of all elements in a matrix.
+118. Write a Python program to find the maximum and minimum element in a matrix.
+119. Write a Python program to check if a matrix is symmetric.
+120. Write a Python program to perform matrix multiplication of two 2D arrays.
+
+# 13. Array Slicing and Indexing
+
+121. Write a Python program to access elements of an array using indexing.
+122. Write a Python program to slice a portion of an array.
+123. Write a Python program to extract even and odd numbers from an array using slicing.
+124. Write a Python program to reverse an array using slicing.
+125. Write a Python program to copy one array into another using slicing.
+
+# 14. Searching and Sorting Arrays
+
+126. Write a Python program to implement linear search on an array.
+127. Write a Python program to implement binary search on a sorted array.
+128. Write a Python program to implement bubble sort on an array.
+129. Write a Python program to implement selection sort on an array.
+130. Write a Python program to implement insertion sort on an array.
+131. Write a Python program to implement quicksort on an array.
+132. Write a Python program to implement mergesort on an array.
+133. Write a Python program to find the second largest and second smallest element in an array.
+
+# 15. Array Manipulation
+
+134. Write a Python program to rotate an array by `k` positions.
+135. Write a Python program to find the missing number in a sequence of numbers from 1 to n.
+136. Write a Python program to remove duplicates from an array.
+137. Write a Python program to find the intersection of two arrays.
+138. Write a Python program to find the union of two arrays.
+139. Write a Python program to merge two sorted arrays.
+140. Write a Python program to find the common elements in three sorted arrays.
+
+# 16. Advanced Array Problems
+
+141. Write a Python program to find the maximum product of two numbers in an array.
+142. Write a Python program to find the contiguous subarray with the maximum sum (Kadane’s Algorithm).
+143. Write a Python program to find the longest increasing subsequence in an array.
+144. Write a Python program to rearrange an array such that positive and negative numbers alternate.
+145. Write a Python program to move all zeros to the end of an array.
+146. Write a Python program to find the majority element in an array (element that appears more than n/2 times).
+147. Write a Python program to find the maximum difference between two elements in an array where the larger element comes after the smaller one.
+148. Write a Python program to merge overlapping intervals in a list of intervals.
+149. Write a Python program to find the kth smallest/largest element in an array.
+150. Write a Python program to rearrange an array such that even-indexed elements are smaller than odd-indexed elements.
+
+# 17. Special Array Patterns
+
+151. Write a Python program to create a spiral matrix.
+152. Write a Python program to rotate a 2D array (matrix) by 90 degrees.
+153. Write a Python program to print the diagonal elements of a matrix.
+154. Write a Python program to print a Pascal’s triangle using arrays.
+155. Write a Python program to print a matrix in a zigzag pattern.
+
+# 18. String Manipulation Using Arrays
+
+156. Write a Python program to convert a string into an array of characters.
+157. Write a Python program to check if two strings are anagrams using arrays.
+158. Write a Python program to reverse the words in a sentence using an array.
+159. Write a Python program to find the longest common prefix in an array of strings.
+160. Write a Python program to find the first non-repeating character in a string using arrays.
